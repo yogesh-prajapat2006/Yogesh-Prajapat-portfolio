@@ -26,7 +26,8 @@
 
 
 ## 🚀 About Me    
-🎓 **CSVTU Bhilai | 3rd Year Student**  
+🎓 **CSVTU Bhilai | 3rd Year Student** 
+🎓 **NAVJIVAAN SCHOOL SIKAR**
 
 
 
@@ -37,6 +38,7 @@
 
 
 ## 🛠 Tech Stack
+🔹 N8N
 
 
 ## 🎒 Inventory ##
