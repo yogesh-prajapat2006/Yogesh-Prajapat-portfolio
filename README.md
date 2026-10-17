@@ -39,6 +39,7 @@
 
 ## 🛠 Tech Stack
 🔹 N8N
+🔹 PROMPT ENG.
 
 
 ## 🎒 Inventory ##
